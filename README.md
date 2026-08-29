@@ -150,11 +150,21 @@ I enjoy building open-source tools, automation frameworks, production-ready AI p
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=naveenhydpk19&theme=cyber-streak&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveenhydpk19&show_icons=true&theme=radical&hide_border=true)](https://github.com/naveenhydpk19)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenhydpk19&layout=compact&theme=radical&hide_border=true)](https://github.com/naveenhydpk19)
+<td align="center">
 
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=naveenhydpk19&layout=compact&langs_count=4&hide_values=true&theme=transparent">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=naveenhydpk19&layout=compact&langs_count=4&hide_values=true&theme=transparent" width="100%" />
+</a>
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
