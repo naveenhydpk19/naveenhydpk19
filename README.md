@@ -16,12 +16,14 @@
 </div>
 
 ---
-👋 About Me
+# 👋 About Me
+
 I build scalable cloud platforms, AI infrastructure, Internal Developer Platforms (IDPs), and Agentic AI systems that help engineering teams build, deploy, and operate applications faster.
 
 My interests span modern Platform Engineering, Cloud Native technologies, DevOps Automation, MLOps, LLMOps, Generative AI, AI Agents, Model Context Protocol (MCP), AI Automation, and Developer Experience.
 
 I enjoy building open-source tools, automation frameworks, production-ready AI platforms, and educational resources that simplify complex engineering problems.
+
 ---
 
 ## ⚡ Tech Stack
