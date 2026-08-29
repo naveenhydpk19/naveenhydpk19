@@ -140,10 +140,6 @@ I enjoy building open-source tools, automation frameworks, production-ready AI p
   </tr>
 </table>
 
-
-<div align="center">
-
-
 ---
 
 ## 📊 GitHub Stats
