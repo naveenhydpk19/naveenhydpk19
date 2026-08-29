@@ -107,61 +107,6 @@ I enjoy building open-source tools, automation frameworks, production-ready AI p
 
 ---
 
-<div align="center">
-
-## 🔧 DevOps & Infrastructure
-
-| Project | Description |
-|----------|-------------|
-| DevOps Real-Time Projects | Beginner → Advanced real-world DevOps projects |
-| AWS Real-Time Projects | Production-grade AWS deployments |
-| Into the DevOps | Complete interview preparation repository |
-| Kubernetes Learning Path | Kubernetes roadmap & CKA preparation |
-| DevOps Tool Installer | Automated DevOps tooling setup |
-| DevOps Cheatsheet | Quick reference guide |
-| Azure DevOps Guide | Azure DevOps learning resource |
-| CI/CD Pipeline for AWS EKS | GitHub Actions + Kubernetes deployment |
-
----
-
-## 🤖 AI Infrastructure & MLOps
-
-| Project | Description |
-|----------|-------------|
-| AI Platform Engineering Handbook | Production-grade AI platform engineering |
-| MLOps Project Generator | CLI & UI for MLOps repositories |
-| DevOps Project Generator | Production-ready DevOps scaffolding |
-| AI Infrastructure Templates | AI deployment architectures |
-| LLMOps Examples | End-to-end LLM deployment workflows |
-
----
-
-## 🤖 AI Agents & Agentic Systems
-
-| Project | Description |
-|----------|-------------|
-| DevOps Incident Response Agent | AI-powered incident troubleshooting |
-| Mainframe MCP Server | Connect AI assistants with IBM z/OS |
-| DevOps MCP Server | MCP server exposing DevOps tools |
-| AI Agent Templates | Starter templates for production AI agents |
-| Multi-Agent Workflows | Agent orchestration examples |
-| AI Automation Examples | Enterprise automation workflows |
-
----
-
-## 🏗️ Platform Engineering
-
-| Project | Description |
-|----------|-------------|
-| DevOps Tools Collection | Curated DevOps ecosystem |
-| DevOps Monitoring in a Box | Prometheus + Grafana + Loki |
-| Kubernetes Master Reference | Production Kubernetes guide |
-| Internal Developer Platform | Self-service platform resources |
-
-</div>
-
----
-
 # 🚀 Areas of Expertise
 
 <table>
@@ -197,30 +142,6 @@ I enjoy building open-source tools, automation frameworks, production-ready AI p
   </tr>
 </table>
 
----
-
-# 🌐 Learning Hub
-
-<div align="center">
-
-| Resource | Description |
-|----------|-------------|
-| 📚 Docs Portal | DevOps, Cloud & AI documentation |
-| 💻 Projects Hub | Hands-on real-world projects |
-| ☸️ Kubernetes Learning | Beginner → CKA |
-| 🐳 Docker to Kubernetes | Complete container journey |
-| 🤖 MLOps Generator | Production-ready MLOps templates |
-| ⚙️ DevOps Generator | DevOps project scaffolding |
-| ☁️ AWS Infra Generator | AWS infrastructure templates |
-| 📊 Monitoring in a Box | Observability stack |
-| 🤖 AI Platform Engineering | AI infrastructure resources |
-| 🧠 Agentic AI | AI Agent learning resources |
-| 🔗 MCP Learning | Model Context Protocol resources |
-| 📦 Repositories Hub | Open-source projects |
-
-</div>
-
----
 
 <div align="center">
 
