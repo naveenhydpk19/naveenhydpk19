@@ -109,8 +109,6 @@ I enjoy building open-source tools, automation frameworks, production-ready AI p
 
 <div align="center">
 
-<img src="https://imgur.com/TCiZWsZ.png" alt="projects" width="800px">
-
 ## 🔧 DevOps & Infrastructure
 
 | Project | Description |
@@ -204,8 +202,6 @@ I enjoy building open-source tools, automation frameworks, production-ready AI p
 # 🌐 Learning Hub
 
 <div align="center">
-
-<img src="https://i.postimg.cc/jqBZ9NLw/image-2.png" alt="hub" width="800px">
 
 | Resource | Description |
 |----------|-------------|
