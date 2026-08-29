@@ -4,11 +4,11 @@
 
 # N A V E E N
 
-**DevOps Engineer**
+**DevOps Engineer • Platform Engineer • AI Infrastructure • Agentic Systems**
 
-`AWS` · `Kubernetes` · `CI/CD` · `Infrastructure as Code` · `Automation`
+`Platform Engineering`. `MLOPS`. `LLMOPS`. `GenAI`. `AI Agents`. `MCP`. `CI/CD` · `AI Infrastructure` · `AWS` · `Kubernetes` . `Automation`  
 
-*Building reliable, automated infrastructure — one pipeline at a time*
+*Building Cloud Platforms, AI Infrastructure & Agentic Systems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-devops-pk/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/naveenhydpk19)
@@ -16,9 +16,12 @@
 </div>
 
 ---
+👋 About Me
+I build scalable cloud platforms, AI infrastructure, Internal Developer Platforms (IDPs), and Agentic AI systems that help engineering teams build, deploy, and operate applications faster.
 
-*I design and automate cloud infrastructure, build CI/CD pipelines, and help teams ship reliably. I work across AWS, Kubernetes, and Infrastructure-as-Code, and share what I learn along the way.*
+My interests span modern Platform Engineering, Cloud Native technologies, DevOps Automation, MLOps, LLMOps, Generative AI, AI Agents, Model Context Protocol (MCP), AI Automation, and Developer Experience.
 
+I enjoy building open-source tools, automation frameworks, production-ready AI platforms, and educational resources that simplify complex engineering problems.
 ---
 
 ## ⚡ Tech Stack
@@ -35,6 +38,84 @@
 [![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![HELM](<img width="80" height="28" alt="image" src="https://github.com/user-attachments/assets/58955977-a6be-476e-9aa1-5cc00e91ce52" />)
+[![ARGO CD](<img width="99" height="28" alt="image" src="https://github.com/user-attachments/assets/ff695492-eec4-484f-aa42-9810c8e34ae6" />)
+[![GitLab CI](<img width="108" height="28" alt="image" src="https://github.com/user-attachments/assets/1ec1c899-31d7-46fd-bed0-f594b1699b02" />)
+
+## 📊 Observability
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+## 🤖 AI & MLOps
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+</div>
+
+---
+
+# 🧠 Current Focus
+
+<table>
+  <tr>
+    <td>Platform Engineering</td>
+    <td>Internal Developer Platforms (IDP)</td>
+    <td>DevOps Automation</td>
+  </tr>
+  <tr>
+    <td>Cloud Native Infrastructure</td>
+    <td>Kubernetes</td>
+    <td>GitOps</td>
+  </tr>
+  <tr>
+    <td>MLOps</td>
+    <td>LLMOps</td>
+    <td>AI Infrastructure</td>
+  </tr>
+  <tr>
+    <td>Generative AI</td>
+    <td>AI Agents</td>
+    <td>Agentic AI Systems</td>
+  </tr>
+  <tr>
+    <td>Multi-Agent Architectures</td>
+    <td>Model Context Protocol (MCP)</td>
+    <td>Agent2Agent (A2A)</td>
+  </tr>
+  <tr>
+    <td>LangGraph</td>
+    <td>LangChain</td>
+    <td>Google ADK</td>
+  </tr>
+  <tr>
+    <td>Context Engineering</td>
+    <td>Prompt Engineering</td>
+    <td>Retrieval-Augmented Generation (RAG)</td>
+  </tr>
+  <tr>
+    <td>AI Automation</td>
+    <td>Developer Experience (DevEx)</td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
+
+Current Focus
+Platform Engineering	Internal Developer Platforms (IDP)	DevOps Automation
+Cloud Native Infrastructure	Kubernetes	GitOps
+MLOps	LLMOps	AI Infrastructure
+Generative AI	AI Agents	Agentic AI Systems
+Multi-Agent Architectures	Model Context Protocol (MCP)	Agent2Agent (A2A)
+LangGraph	LangChain	Google ADK
+Context Engineering	Prompt Engineering	Retrieval-Augmented Generation (RAG)
+AI Automation	Developer Experience (DevEx)	
+
+
+
 
 ---
 
