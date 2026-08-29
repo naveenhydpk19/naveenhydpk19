@@ -38,9 +38,9 @@ I enjoy building open-source tools, automation frameworks, production-ready AI p
 [![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![HELM](<img width="80" height="28" alt="image" src="https://github.com/user-attachments/assets/58955977-a6be-476e-9aa1-5cc00e91ce52" />)
-[![ARGO CD](<img width="99" height="28" alt="image" src="https://github.com/user-attachments/assets/ff695492-eec4-484f-aa42-9810c8e34ae6" />)
-[![GitLab CI](<img width="108" height="28" alt="image" src="https://github.com/user-attachments/assets/1ec1c899-31d7-46fd-bed0-f594b1699b02" />)
+![Helm](https://img.shields.io/badge/Helm-%232C5263.svg?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLabCI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## 📊 Observability
 
