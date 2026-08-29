@@ -107,15 +107,127 @@ I enjoy building open-source tools, automation frameworks, production-ready AI p
 
 ---
 
-## 📂 Featured Projects
-<img width="1563" height="391" alt="image" src="https://github.com/user-attachments/assets/88b132d2-6d67-458e-aa7b-e4c69d4a380a" />
+<div align="center">
 
+<img src="https://imgur.com/TCiZWsZ.png" alt="projects" width="800px">
+
+## 🔧 DevOps & Infrastructure
 
 | Project | Description |
-|---|---|
+|----------|-------------|
+| DevOps Real-Time Projects | Beginner → Advanced real-world DevOps projects |
+| AWS Real-Time Projects | Production-grade AWS deployments |
+| Into the DevOps | Complete interview preparation repository |
+| Kubernetes Learning Path | Kubernetes roadmap & CKA preparation |
+| DevOps Tool Installer | Automated DevOps tooling setup |
+| DevOps Cheatsheet | Quick reference guide |
+| Azure DevOps Guide | Azure DevOps learning resource |
+| CI/CD Pipeline for AWS EKS | GitHub Actions + Kubernetes deployment |
 
+---
 
-> Note: these are your currently pinned repos. If you'd like this table to highlight specific DevOps/infra projects instead (Terraform modules, CI/CD pipelines, K8s manifests, etc.), tell me which repos and I'll swap these in.
+## 🤖 AI Infrastructure & MLOps
+
+| Project | Description |
+|----------|-------------|
+| AI Platform Engineering Handbook | Production-grade AI platform engineering |
+| MLOps Project Generator | CLI & UI for MLOps repositories |
+| DevOps Project Generator | Production-ready DevOps scaffolding |
+| AI Infrastructure Templates | AI deployment architectures |
+| LLMOps Examples | End-to-end LLM deployment workflows |
+
+---
+
+## 🤖 AI Agents & Agentic Systems
+
+| Project | Description |
+|----------|-------------|
+| DevOps Incident Response Agent | AI-powered incident troubleshooting |
+| Mainframe MCP Server | Connect AI assistants with IBM z/OS |
+| DevOps MCP Server | MCP server exposing DevOps tools |
+| AI Agent Templates | Starter templates for production AI agents |
+| Multi-Agent Workflows | Agent orchestration examples |
+| AI Automation Examples | Enterprise automation workflows |
+
+---
+
+## 🏗️ Platform Engineering
+
+| Project | Description |
+|----------|-------------|
+| DevOps Tools Collection | Curated DevOps ecosystem |
+| DevOps Monitoring in a Box | Prometheus + Grafana + Loki |
+| Kubernetes Master Reference | Production Kubernetes guide |
+| Internal Developer Platform | Self-service platform resources |
+
+</div>
+
+---
+
+# 🚀 Areas of Expertise
+
+<table>
+  <tr>
+    <td>☁️ Cloud Infrastructure</td>
+    <td>☸️ Kubernetes</td>
+    <td>⚙️ DevOps Engineering</td>
+    <td>🏗️ Platform Engineering</td>
+  </tr>
+  <tr>
+    <td>🛠️ Internal Developer Platforms</td>
+    <td>🚀 GitOps</td>
+    <td>📊 Observability</td>
+    <td>🤖 AI Infrastructure</td>
+  </tr>
+  <tr>
+    <td>🧠 Generative AI</td>
+    <td>🤖 AI Agents</td>
+    <td>🕸️ Agentic AI Systems</td>
+    <td>🔗 Model Context Protocol (MCP)</td>
+  </tr>
+  <tr>
+    <td>🤝 Agent2Agent (A2A)</td>
+    <td>📚 MLOps</td>
+    <td>🧩 LLMOps</td>
+    <td>🔍 RAG</td>
+  </tr>
+  <tr>
+    <td>💬 Prompt Engineering</td>
+    <td>🧠 Context Engineering</td>
+    <td>⚡ AI Automation</td>
+    <td>👨‍💻 Developer Experience</td>
+  </tr>
+</table>
+
+---
+
+# 🌐 Learning Hub
+
+<div align="center">
+
+<img src="https://i.postimg.cc/jqBZ9NLw/image-2.png" alt="hub" width="800px">
+
+| Resource | Description |
+|----------|-------------|
+| 📚 Docs Portal | DevOps, Cloud & AI documentation |
+| 💻 Projects Hub | Hands-on real-world projects |
+| ☸️ Kubernetes Learning | Beginner → CKA |
+| 🐳 Docker to Kubernetes | Complete container journey |
+| 🤖 MLOps Generator | Production-ready MLOps templates |
+| ⚙️ DevOps Generator | DevOps project scaffolding |
+| ☁️ AWS Infra Generator | AWS infrastructure templates |
+| 📊 Monitoring in a Box | Observability stack |
+| 🤖 AI Platform Engineering | AI infrastructure resources |
+| 🧠 Agentic AI | AI Agent learning resources |
+| 🔗 MCP Learning | Model Context Protocol resources |
+| 📦 Repositories Hub | Open-source projects |
+
+</div>
+
+---
+
+<div align="center">
+
 
 ---
 
