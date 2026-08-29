@@ -105,20 +105,6 @@ I enjoy building open-source tools, automation frameworks, production-ready AI p
 
 ---
 
-
-Current Focus
-Platform Engineering	Internal Developer Platforms (IDP)	DevOps Automation
-Cloud Native Infrastructure	Kubernetes	GitOps
-MLOps	LLMOps	AI Infrastructure
-Generative AI	AI Agents	Agentic AI Systems
-Multi-Agent Architectures	Model Context Protocol (MCP)	Agent2Agent (A2A)
-LangGraph	LangChain	Google ADK
-Context Engineering	Prompt Engineering	Retrieval-Augmented Generation (RAG)
-AI Automation	Developer Experience (DevEx)	
-
-
-
-
 ---
 
 ## 📂 Featured Projects
