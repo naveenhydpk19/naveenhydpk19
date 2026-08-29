@@ -37,15 +37,12 @@
 ---
 
 ## 📂 Featured Projects
+<img width="1563" height="391" alt="image" src="https://github.com/user-attachments/assets/88b132d2-6d67-458e-aa7b-e4c69d4a380a" />
+
 
 | Project | Description |
 |---|---|
-| [content-gitops](https://github.com/naveenhydpk19/content-gitops) | GitOps-driven content deployment workflow |
-| [spring-starter](https://github.com/naveenhydpk19/spring-starter) | Spring Boot starter template for backend services |
-| [insurance-backend](https://github.com/naveenhydpk19/insurance-backend) | Backend service for insurance domain workflows |
-| [insurance_backend](https://github.com/naveenhydpk19/insurance_backend) | Insurance backend — API and data layer |
-| [mediclaim](https://github.com/naveenhydpk19/mediclaim) | Medical claims processing application |
-| [parking](https://github.com/naveenhydpk19/parking) | Parking management system |
+
 
 > Note: these are your currently pinned repos. If you'd like this table to highlight specific DevOps/infra projects instead (Terraform modules, CI/CD pipelines, K8s manifests, etc.), tell me which repos and I'll swap these in.
 
